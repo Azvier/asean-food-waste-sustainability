@@ -1,0 +1,16 @@
+[project]
+name = "asean-food-waste-sustainability"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Abdul Fathin Fawwaz", email = "abdulfathinfawwaz@gmail.com"},
+    {name = "Giselia Davin Setiawan", email = "giseliadsetiawan@gmail.com"}
+]
+dependencies = ["pandas>=2.3.0"]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
