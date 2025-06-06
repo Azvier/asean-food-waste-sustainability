@@ -1,7 +1,11 @@
 [project]
-name = "asean-food-waste-sustainability"
+name = "asean_food_waste_sustainability"
 version = "0.1.0"
-description = "Default template for PDM package"
+description = """
+ASEAN Food Circularity System: A data-driven platform to address food waste
+for well-being and sustainability. Submission for the ASEAN Data Science
+Explorers 2025.
+"""
 authors = [
     {name = "Abdul Fathin Fawwaz", email = "abdulfathinfawwaz@gmail.com"},
     {name = "Giselia Davin Setiawan", email = "giseliadsetiawan@gmail.com"}
