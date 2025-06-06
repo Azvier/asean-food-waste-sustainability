@@ -7,6 +7,10 @@ desktop.ini
 # Ignore raw data folder
 data/
 
+# Temporarily hide scripts related files and directories
+src/
+data_processing_script.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
