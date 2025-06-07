@@ -11,6 +11,10 @@ data/
 src/
 data_processing_script.ipynb
 
+# Ignore github instructions and project reference files
+.github/
+project_reference/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
