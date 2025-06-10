@@ -10,7 +10,7 @@ authors = [
     {name = "Abdul Fathin Fawwaz", email = "abdulfathinfawwaz@gmail.com"},
     {name = "Giselia Davin Setiawan", email = "giseliadsetiawan@gmail.com"}
 ]
-dependencies = ["pandas>=2.3.0", "ipykernel>=6.29.5", "seaborn>=0.13.2"]
+dependencies = ["pandas>=2.3.0", "ipykernel>=6.29.5", "seaborn>=0.13.2", "openpyxl>=3.1.5"]
 requires-python = "==3.12.*"
 readme = "README.md"
 license = {text = "MIT"}
