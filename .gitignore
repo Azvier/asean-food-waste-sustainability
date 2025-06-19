@@ -15,6 +15,9 @@ data_processing_script.ipynb
 .github/
 project_reference/
 
+# Ignore VS Code settings and extensions
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
